@@ -18,9 +18,10 @@ This case is aimed at the production of high-quality designs for objectoriented 
 * MOMoT_solution/ (example solution)
   * TTC2016_CRA_MOMoT.pdf (solution description)
   * output_models/
-    * TTC_InputRDG_A_cd5.xmi
-    * TTC_InputRDG_B_cd5.xmi
-    * TTC_InputRDG_C_cd9.xmi
-    * TTC_InputRDG_D_cd20.xmi
-    * TTC_InputRDG_E_cd47.xmi
+    * TTC_InputRDG_A_cd4.xmi (new solution, see notice below, CRA-Index: 3.0)
+    * TTC_InputRDG_B_cd7.xmi (new solution, see notice below, CRA-Index: 1.125)
+    * TTC_InputRDG_C_cd12.xmi (new solution, see notice below, CRA-Index: -5.6357)
+    * TTC_InputRDG_D_cd20.xmi (CRA-Index: -23.6338)
+    * TTC_InputRDG_E_cd47.xmi (CRA-Index: -69.6555)
   
+*Update:* The first three solutions (TTC_InputRDG_A, TTC_InputRDG_B, TTC_InputRDG_C) have been updated with better solutions found by a slightly different approach based on MOMoT.
