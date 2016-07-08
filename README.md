@@ -10,8 +10,12 @@ This case is aimed at the production of high-quality designs for objectoriented 
     * TTC_InputRDG_B.xmi 
     * TTC_InputRDG_C.xmi
     * TTC_InputRDG_D.xmi 
-    * TTC_InputRDG_E.xmi (most complex input model)
-    * TTC_InputRDG_E.xmi (most complex input model)
+    * TTC_InputRDG_E.xmi 
+    * TTC_InputRDG_F.xmi
+    * TTC_InputRDG_G.xmi
+    * TTC_InputRDG_H.xmi
+    * TTC_InputRDG_I.xmi
+    * TTC_InputRDG_J.xmi	
   * evaluation_artefacts/ 
     * EvaluationSheet.xlsx (spreadsheet to evaluate contestant solutions)
     * CRAIndexCalculator.jar (program to calculate CRA-Index for input models)
